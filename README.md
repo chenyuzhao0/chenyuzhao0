@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi 👋, I'm chenyuzhao0
+## Hi 👋, I'm chenyuzhao0
 
 ### A passionate Java developer
 
